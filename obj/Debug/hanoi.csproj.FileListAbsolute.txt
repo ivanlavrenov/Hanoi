@@ -1,0 +1,11 @@
+D:\hanoi\hanoi\bin\Debug\TowersWindows.exe.config
+D:\hanoi\hanoi\bin\Debug\TowersWindows.exe
+D:\hanoi\hanoi\bin\Debug\TowersWindows.pdb
+D:\hanoi\hanoi\obj\Debug\hanoi.csproj.AssemblyReference.cache
+D:\hanoi\hanoi\obj\Debug\hanoi.csproj.SuggestedBindingRedirects.cache
+D:\hanoi\hanoi\obj\Debug\TowersWindows.Form1.resources
+D:\hanoi\hanoi\obj\Debug\TowersWindows.Properties.Resources.resources
+D:\hanoi\hanoi\obj\Debug\hanoi.csproj.GenerateResource.cache
+D:\hanoi\hanoi\obj\Debug\hanoi.csproj.CoreCompileInputs.cache
+D:\hanoi\hanoi\obj\Debug\TowersWindows.exe
+D:\hanoi\hanoi\obj\Debug\TowersWindows.pdb
